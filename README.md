@@ -26,7 +26,7 @@ Here are some of my public repositories:
 
 | Repository | Description |
 |---|---|
-| [Computer-Network](https://github.com/dev-ankitsingh/Computer-Network) | Short tutorial and notes on computer networks—good for exam prep.  |
+| [Computer-Network](https://github.com/dev-ankitsingh/Computer-Network) | Short tutorial and notes on computer networks— Quick Exam Preparation Guide.  |
 
 ---
 

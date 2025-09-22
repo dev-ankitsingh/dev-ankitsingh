@@ -47,5 +47,4 @@ Here are some of my public repositories:
 
 ---
 
-If you'd like, I can generate a version with some graphics (badges, etc.), or customize it further. Do you want that?
-::contentReference[oaicite:2]{index=2}
+Thank you ❤️

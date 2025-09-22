@@ -27,8 +27,8 @@ Here are some of my public repositories:
 
 | Repository | Description |
 |---|---|
-| [Computer-Network](https://github.com/dev-ankitsingh/Computer-Network) | Short tutorial and notes on computer networks—good for exam prep. :contentReference[oaicite:0]{index=0} |
-| [dev-ankitsingh](https://github.com/dev-ankitsingh/dev-ankitsingh) | *(Add description of what this project is about.)* :contentReference[oaicite:1]{index=1} |
+| [Computer-Network](https://github.com/dev-ankitsingh/Computer-Network) | Short tutorial and notes on computer networks—good for exam prep.  |
+| [dev-ankitsingh](https://github.com/dev-ankitsingh/dev-ankitsingh) | *(Add description of what this project is about.)* |
 
 ---
 
